@@ -1,16 +1,16 @@
-# React + Vite
+# Currency Converter - React + Vite
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+A fully functional **Currency Converter** app built with **React 18** and **Vite**. Convert between USD, EUR, GBP, and JPY instantly!
 
-Currently, two official plugins are available:
+## ✨ Features
+- Live conversion between **USD, EUR, GBP, JPY**
+- Real-time calculations with `useMemo` optimization
+- Responsive card design with hover/focus effects
+- Fast Vite HMR (Hot Module Replacement)
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react) uses [Babel](https://babeljs.io/) (or [oxc](https://oxc.rs) when used in [rolldown-vite](https://vite.dev/guide/rolldown)) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+## 🛠️ Tech Stack
+- React 18 + Hooks (`useState`, `useMemo`)
+- Vite (10x faster than Create React App)
+- Vanilla CSS (Flexbox + Modern styling)
 
-## React Compiler
-
-The React Compiler is not enabled on this template because of its impact on dev & build performances. To add it, see [this documentation](https://react.dev/learn/react-compiler/installation).
-
-## Expanding the ESLint configuration
-
-If you are developing a production application, we recommend using TypeScript with type-aware lint rules enabled. Check out the [TS template](https://github.com/vitejs/vite/tree/main/packages/create-vite/template-react-ts) for information on how to integrate TypeScript and [`typescript-eslint`](https://typescript-eslint.io) in your project.
+## 🚀 Quick Start
